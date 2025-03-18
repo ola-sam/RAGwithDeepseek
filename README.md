@@ -2,6 +2,8 @@
 
 **A fully local RAG system powered by Ollama (Deepseek-r1) and LlamaIndex - No API keys required!**
 
+![RAG Interface Screenshot](./ragdeep.png)
+
 ## 🌟 Features
 - **100% Local Execution** - All processing happens on your machine
 - **Multi-Document Support** - PDF, TXT, DOCX, CSV formats
